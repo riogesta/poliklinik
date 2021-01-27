@@ -1,0 +1,26 @@
+/* 
+this css for fix fixed menu on semantic ui framework css.
+this css writed by riogesta, edited from many source for compatible in semantic ui framework css
+*/
+body {
+    padding-top: 3em;
+}
+
+.pt-1{
+    padding-top: 1em;
+}
+
+/* special of fixed menu on top (only for top menu) */
+.ngambang{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    background-color: white !important;
+    /* background-position: initial initial;
+    background-repeat: initial initial; */
+}
+
+.m-1{
+    padding: 1em;
+}
